@@ -1,0 +1,6 @@
+C:\Users\SRINITHI\source\repos\CARS.entity\CARS.entity\bin\Debug\CARS.entity.dll
+C:\Users\SRINITHI\source\repos\CARS.entity\CARS.entity\bin\Debug\CARS.entity.pdb
+C:\Users\SRINITHI\source\repos\CARS.entity\CARS.entity\obj\Debug\CARS.entity.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\CARS.entity\CARS.entity\obj\Debug\CARS.entity.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\CARS.entity\CARS.entity\obj\Debug\CARS.entity.dll
+C:\Users\SRINITHI\source\repos\CARS.entity\CARS.entity\obj\Debug\CARS.entity.pdb
